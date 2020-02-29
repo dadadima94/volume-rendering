@@ -15,6 +15,6 @@ The following pictures show respectively, some objects after using MIP, the same
 
 ![Compositing](https://github.com/dadadima94/volume-rendering/blob/master/images/01-2.png)
 
-![Shading vs no shading](https://github.com/dadadima94/volume-rendering/blob/master/images/03.png)
+![Shading vs no shading](https://github.com/dadadima94/volume-rendering/blob/master/images/02.png)
 
 You can find more pictures in the _images_ directory.
